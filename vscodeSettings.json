@@ -1,0 +1,35 @@
+{
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.detectIndentation": false,
+  "keyboard.dispatch": "keyCode",
+  "[javascript]": {
+    "editor.tabSize": 2
+  },
+  "[python]": {
+    "editor.tabSize": 4
+  },
+  "workbench.colorTheme": "Quiet Light",
+  "[javascriptreact]": {},
+  "prettier.useTabs": false,
+  "prettier.tabWidth": 2,
+  "prettier.printWidth": 80,
+  "prettier.trailingComma": "none",
+  "prettier.jsxBracketSameLine": false,
+  "prettier.javascriptEnable": [ "javascript", "javascriptreact" ],
+  "explorer.confirmDragAndDrop": false,
+  "sync.gist": "c73e2119e19f4c98d820f7c10d2805be",
+  "sync.lastUpload": "2018-04-25T16:24:38.714Z",
+  "sync.autoDownload": true,
+  "sync.autoUpload": true,
+  "sync.lastDownload": "",
+  "sync.forceDownload": false,
+  "sync.host": "",
+  "sync.pathPrefix": "",
+  "sync.quietSync": false,
+  "sync.askGistName": false,
+  "sync.removeExtensions": true,
+  "sync.syncExtensions": true,
+  "git.confirmSync": false,
+  "window.zoomLevel": -1
+}

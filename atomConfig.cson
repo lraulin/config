@@ -1,0 +1,27 @@
+"*":
+  core:
+    telemetryConsent: "limited"
+  editor:
+    tabSize: 2
+    tabType: "soft"
+  "exception-reporting":
+    userId: "96d7e771-664e-453f-8fcd-509fb2bb8256"
+  "highlight-selected": {}
+  "linter-python":
+    executablePath: "/usr/lib/python3/dist-packages/pylama"
+    withPep257: true
+    withPep8: true
+    withPylint: true
+  "linter-ui-default":
+    showPanel: true
+  "prettier-atom":
+    prettierOptions:
+      tabWidth: 2
+      trailingComma: "all"
+    useEslint: true
+  "sync-settings":
+    _lastBackupHash: "883734550e22e4c5d66f62988438148df990e5ef"
+    gistId: "f188ca38e06ea713a061d1377dca3cfc"
+    personalAccessToken: "f8953ff25a79dc07acc85237b3c6de7511c01af9"
+  welcome:
+    showOnStartup: false
