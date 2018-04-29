@@ -8,3 +8,6 @@ setxkbmap -option caps:escape
 
 # Set X11 keymap Dvorak, swapped escape/caps
 sudo localectl set-x11-keymap us pc105 dvorak caps:swapescapes
+
+# VirtualBox folders group
+sudo usermod -a -G vboxsf $USER
