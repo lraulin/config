@@ -11,3 +11,9 @@ sudo localectl set-x11-keymap us pc105 dvorak caps:swapescapes
 
 # VirtualBox folders group
 sudo usermod -a -G vboxsf $USER
+
+# To install: necessary
+sudo apt install vim curl git tilda synapse python3-pip
+
+# To install: Terminal fun
+sl fortune fortunes cowsay cmatrix espeak oneko toilet libaa-bin bb 
