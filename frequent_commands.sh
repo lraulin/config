@@ -21,3 +21,7 @@ sl fortune fortunes cowsay cmatrix espeak oneko toilet libaa-bin bb
 # Suse wifi stopped working. Fix:
 sudo rm /etc/resolv.conf
 sudo ncnetwork restart
+
+# Script to automatically set up user global npm directory
+wget https://raw.githubusercontent.com/glenpike/npm-g_nosudo/master/npm-g-nosudo.sh
+chmod +x npm-g-nosudo.sh
