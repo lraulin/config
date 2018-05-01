@@ -17,3 +17,7 @@ sudo apt install vim curl git tilda synapse python3-pip
 
 # To install: Terminal fun
 sl fortune fortunes cowsay cmatrix espeak oneko toilet libaa-bin bb 
+
+# Suse wifi stopped working. Fix:
+sudo rm /etc/resolv.conf
+sudo ncnetwork restart
